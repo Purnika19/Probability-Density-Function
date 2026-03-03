@@ -1,4 +1,4 @@
-# Probability Density Function Using Generative Adversarial Network (GAN)
+# Probability Density Function Using Data only
 
 ## Overview
 
